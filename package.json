@@ -2,7 +2,7 @@
   "name": "qa.js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "qa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ManrajGrover/qa.js.git"
   },
-  "author": "",
+  "author": "Manraj Singh Grover <manrajsinghgrover@gmail.com> (http://manrajsingh.in/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ManrajGrover/qa.js/issues"
