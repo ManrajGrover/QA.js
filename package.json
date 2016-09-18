@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManrajGrover/QA.js.git"
+    "url": "git+https://github.com/ManrajGrover/qa.js.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ManrajGrover/QA.js/issues"
+    "url": "https://github.com/ManrajGrover/qa.js/issues"
   },
-  "homepage": "https://github.com/ManrajGrover/QA.js#readme"
+  "homepage": "https://github.com/ManrajGrover/qa.js#readme"
 }
