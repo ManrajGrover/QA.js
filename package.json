@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ManrajGrover/qa.js/issues"
   },
-  "homepage": "https://github.com/ManrajGrover/qa.js#readme"
+  "homepage": "https://github.com/ManrajGrover/qa.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
 }
