@@ -7,3 +7,5 @@ var qa = function qa() {
 
   console.log("Babel working");
 };
+
+var x = new qa();
