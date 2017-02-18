@@ -1,5 +1,5 @@
-var gulp = require('gulp');
-var babel = require('gulp-babel');
+const gulp = require('gulp');
+const babel = require('gulp-babel');
 
 gulp.task('es6', () => {
   gulp.src('src/*.js')
